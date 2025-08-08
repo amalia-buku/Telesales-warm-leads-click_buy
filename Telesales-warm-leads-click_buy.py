@@ -169,7 +169,7 @@ with st.sidebar:
     # st.divider()
     # st.header("Media (optional)")
     # image_url = st.text_input("Image URL (optional)")
-    image_url = "https://raw.githubusercontent.com/christian-buku/Telesales-hot-leads-submitted-form-and-created-payment-link/refs/heads/main/banner.jpg"
+    image_url = "https://raw.githubusercontent.com/amalia-buku/Telesales-warm-leads-click_buy/refs/heads/main/banner.jpg"
     # image_filename = st.text_input("Image filename", value="banner.jpg")
     image_filename = "banner.jpg"
 
